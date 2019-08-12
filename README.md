@@ -18,6 +18,6 @@ Install
 =======
 
 
-- `Installation of lisa project <https://lisa-linux-integrated-system-analysis.readthedocs.io/en/master/setup.html>`__
+- Installation of lisa project <https://lisa-linux-integrated-system-analysis.readthedocs.io/en/master/setup.html>
 - copy aapt-arm-pie file to the path of lisa project.
 - open ipynb to use jupyternotebook in lisa project.
