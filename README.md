@@ -3,8 +3,8 @@
 Introduction
 ============
 
-This project is logging systrace or ftrace automatically during app execution time.  
-
+ This project provides a toolkit to be logging systrace or ftrace automatically during app execution time. This project's goal is to help android developers to measure the app launched time and to be remain logging for analysis during app launched time.
+ This project use many libraries in the LISA project of arm. So This should be installed with LISA library.
 
 Motivations
 ===========
