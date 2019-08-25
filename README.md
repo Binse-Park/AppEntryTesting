@@ -10,8 +10,10 @@ Motivations
 ===========
 
 The main goals of App Entry Tester are:
--  logging systrace or ftrace automatically during app execution time. 
--  Gatherring the app entry time and calculating statistics.
+-  Get the systrace or ftrace automatically during app execution time. 
+-  Gather the app entry time and calculating statistics.
+-  Calculate the variance of app launch time.
+-  Store some testing scenarios.
 
 
 Install
