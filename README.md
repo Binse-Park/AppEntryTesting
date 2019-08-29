@@ -14,7 +14,7 @@ The main goals of App Entry Tester are:
 -  Gather the app entry time and calculating statistics.
 -  Calculate the variance of app launch time.
 -  Store some testing scenarios.
--  Gather Scheduling infor.
+-  Gather Scheduling infor, running, runable, sleep, uninterruptible sleep.
 
 
 Install
