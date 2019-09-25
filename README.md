@@ -17,6 +17,7 @@ The main goals of App Entry Tester are:
 -  Store some testing scenarios and test it many times.
 -  Compare with a device with similar h/w spec.
 -  Draw some graphes about cpu and scheduling stat.
+-  Make the lock contention.
 
 
 Install
