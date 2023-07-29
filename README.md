@@ -35,3 +35,4 @@ External Links
   Note: the LISA classes referred by the slides are outdated, but all the other concepts and the overall architecture stays the same.
 - Some insights on what it takes to have reliable tests: [Video](https://www.youtube.com/watch?v=I_MZ9XS3_zc&t=7s)
 
+testing app entry
